@@ -15,9 +15,7 @@ export default function Home() {
       <main className={styles.main}>
         <Link href="/about">About Us</Link>
 
-        <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
-        </h1>
+        <h1 className={styles.title}>Pully.ai Next App</h1>
 
         <p className={styles.description}>
           Get started by editing{" "}
